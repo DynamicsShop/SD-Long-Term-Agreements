@@ -1,5 +1,15 @@
 ## SD Long Term Agreements Releases
 
+### 2.1.1
+
+#### Enhancements
+
+- BCv19 App - Added the Latest Version of the product and the AppSource URL to the About Page. 
+
+- BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
+
+- BCv19 App - The Allow HTTPClient Request option is set to on by default on install of the product. 
+
 ### 2.1.0
 
 #### Enhancements
