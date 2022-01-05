@@ -10,6 +10,14 @@
 
 - BCv19 App - The Allow HTTPClient Request option is set to on by default on install of the product. 
 
+- BCv19 App - Code was reviewed to ensure that the Licence Expiry Date prompts with 5 days to go was not stopping functionality.
+
+#### Bug Fixes
+
+- BCv19 App - Fixed an issue where after getting a message that the Free Trials were exceeded and clicking on the Assisted Setup action an error was raised.
+
+- BCv19 App - The Product Activation page was updated to disable the Activate button until a Product Key is filled in. This will avoid an error being raised when Activate is chosen with no Product Key entered.
+
 ### 2.1.0
 
 #### Enhancements
