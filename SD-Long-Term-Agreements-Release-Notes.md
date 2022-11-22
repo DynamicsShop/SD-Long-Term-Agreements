@@ -1,5 +1,29 @@
 ## SD Long Term Agreements Releases
 
+### 2.2.0
+
+#### Enhancements
+
+- BCv21 App - The Licence Message displayed on first install of SD Long Term Agreements was changed to prompt the user to activate a free trial and to choose Assisted Setup from the Setup Card to create demo data. 
+
+- BCv21 App - A page was created to display all the Simply Dynamics Apps and subscription details for the tenant. 
+
+- BCv21 App - The Licence Expiry message/notification was updated to display the App Name. 
+
+- BCv21 App - The Product Activation Page was updated to point to the new CRM URL. 
+
+- BCv21 App - The ToolTips were updated to look at our new website. 
+
+- BCv21 App - The links in the About Page were updated to point to new URLs. 
+
+- BCv21 App - The SD Long Term Agreements permission object names were updated to our standard ISV naming convention.
+
+- BCv21 App - Minor text changes were made to some pages on the Assisted Setup Wizard.
+
+#### Bug Fixes
+
+- BCv21 App - A fix was made to the code for licence key checks on the SD Long Term Agreements Role Centre.  
+
 ### 2.1.1
 
 #### Enhancements
