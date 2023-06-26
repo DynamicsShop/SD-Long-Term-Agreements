@@ -1,5 +1,21 @@
 ## SD Long Term Agreements Releases
 
+### 2.3.0
+
+#### Enhancements
+
+- AppSource App - The SD Long Term Agreements Assisted Setup page was removed from the Tell Me search. 
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+- AppSource App - When selecting SD Long Term Agreements activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
+- AppSource App - A change was made to the ISV Licence Notification procedure in SD Long Term Agreements to fix an issue that would raise an error when the language is changed from English to another language.
+
+- AppSource App - An error was raised in the Assisted Setup import if non sequential enum values exist in the imported data. This was fixed.
+
 ### 2.2.0
 
 #### Enhancements
