@@ -1,5 +1,35 @@
 ## SD Long Term Agreements Releases
 
+### 3.0.0
+
+#### Enhancements
+
+- AppSource App - Functionality was created to allow import of settlement amounts from an outside rebate system into the LTA Worksheet for creation of Credit Memos for Customers. 
+
+- AppSource App - A new LTA Defaults FastTab was added to the Setup Card including new fields for Default Settlement Frequency, Default Rebate Type and Default Settlement Type. 
+
+- AppSource App - When data is imported into SD Long Term Agreements from an external source automatically create an LTA Card for the Customer if one does not already exist. 
+
+- AppSource App - Functionality was added to suggest Customer Refunds and allow Credit Memos created by SD Long Term Agreements to be applied to those Customer Refunds.  
+
+- AppSource App - A new field Create Zero Amount Credit Memos was surfaced on the Setup Card. This field applies to Settlement Types of Credit Memo. Choose whether to create a zero amount credit memo if the settlement amount for the period was 0. 
+
+- AppSource App - A field caption on the SD LTA Customer Imports list was updated. 
+
+- AppSource App - A ToolTip was updated on the SD Long Term Agreements Setup card. 
+
+- AppSource App - The ToolTip on the Credit Memo Reason Code on the Setup card was updated. 
+
+- AppSource App - Recaption the Default Book Type on the Setup card to Default LTA Type. 
+
+- AppSource App - The Default LTA fields on the Setup card were reordered. 
+
+#### Bug Fixes
+
+- AppSource App - When suggesting customer refunds from credit memos created by SD Long Term Agreements, only the first credit memo for a customer was added to the payment journal. This was fixed. 
+
+- AppSource App - A fix was made to an error raised on creation of a Credit Memo if the Credit Limit for the Customer was reached and the Credit Limit message could not be opened on the page. 
+
 ### 2.3.0
 
 #### Enhancements
