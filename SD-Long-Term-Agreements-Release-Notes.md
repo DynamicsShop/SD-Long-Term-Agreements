@@ -28,7 +28,9 @@
 
 - AppSource App - When suggesting customer refunds from credit memos created by SD Long Term Agreements, only the first credit memo for a customer was added to the payment journal. This was fixed. 
 
-- AppSource App - A fix was made to an error raised on creation of a Credit Memo if the Credit Limit for the Customer was reached and the Credit Limit message could not be opened on the page. 
+- AppSource App - A fix was made to an error raised on creation of a Credit Memo if the Credit Limit for the Customer was reached and the Credit Limit message could not be opened on the page.
+
+- AppSource App - The LTA No. was not stamped on LTA Detailed Ledger Entries on import from an external file. This was fixed.
 
 ### 2.3.0
 
