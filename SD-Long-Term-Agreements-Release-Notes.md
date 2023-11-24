@@ -1,5 +1,11 @@
 ## SD Long Term Agreements Releases
 
+### 3.0.1
+
+#### Bug Fixes
+
+- AppSource App - The SD LTA - Suggest Customer Refunds action in the Payment Journals was changed to use -(Remaining Amount) rather than ABS(Amount) when populating the Amount field on the Journal Line.
+
 ### 3.0.0
 
 #### Enhancements
