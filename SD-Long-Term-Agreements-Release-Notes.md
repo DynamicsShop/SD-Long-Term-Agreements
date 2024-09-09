@@ -1,5 +1,23 @@
 ## SD Long Term Agreements Releases
 
+### 3.1.0
+
+#### Enhancements
+
+- AppSource App - The SDY LTAS Ledger Entry table was surfaced as an ODATA feed to be accessed by Power BI.
+
+- AppSource App - ToolTips in SD Long Term Agreements were reviewed and updated.
+
+- AppSource App - A number of UI Changes were made to the Role Centre.
+
+- AppSource App - A minor UI change was made to the Setup Card.
+
+- AppSource App - A minor UI change was made to the Vendor Worksheet.
+
+- AppSource App - The Links in the About Page were updated.
+
+- AppSource App - The logo in App was updated to the new logo.
+
 ### 3.0.1
 
 #### Bug Fixes
