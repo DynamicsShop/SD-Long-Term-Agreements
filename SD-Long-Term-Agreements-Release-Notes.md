@@ -4,7 +4,7 @@
 
 #### Enhancements
 
-- AppSource App - The SDY LTAS Ledger Entry table was surfaced as an ODATA feed to be accessed by Power BI.
+- AppSource App - The SDY LTAS Ledger Entry table was surfaced as an API Page to be accessed by Power BI.
 
 - AppSource App - ToolTips in SD Long Term Agreements were reviewed and updated.
 
