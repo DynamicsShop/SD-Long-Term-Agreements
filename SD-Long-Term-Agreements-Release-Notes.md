@@ -1,5 +1,17 @@
 ## SD Long Term Agreements Releases
 
+### 3.1.1
+
+#### Enhancements
+
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Long Term Agreement pages.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
 ### 3.1.0
 
 #### Enhancements
